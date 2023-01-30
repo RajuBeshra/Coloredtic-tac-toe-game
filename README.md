@@ -1,9 +1,13 @@
 # Colored-TicTacToe-Game-using-OOP
 
-C++ Tutorial - Making Simple Tic Tac Toe Game In 5 Minutes.
+here is the some major section of my project:-
 
-Welcome to my simple tutorial on C++. In this tutorial, you will learn how to make a simple Tic Tac Toe game in C++ in just 8 minutes.g.
+1) Initialize a 2D array to store the state of the game board.
 
-Video Link https://www.youtube.com/watch?v=rodk6g6zFB8
+2) Implement a function to display the game board.
 
-Subscribe our channel and like our videos https://www.youtube.com/c/Angulars
+3) Implement a function to handle user inputs and update the game board.
+
+4) Implemnet logic to check for a win or a tie.
+
+5) Put all the pieces together in the main function to run the game.
